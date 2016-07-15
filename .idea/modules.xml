@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/drogon.iml" filepath="$PROJECT_DIR$/drogon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drogon-core/drogon-core.iml" filepath="$PROJECT_DIR$/drogon-core/drogon-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drogon-monitor/drogon-monitor.iml" filepath="$PROJECT_DIR$/drogon-monitor/drogon-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drogon-parent/drogon-parent.iml" filepath="$PROJECT_DIR$/drogon-parent/drogon-parent.iml" />
+    </modules>
+  </component>
+</project>

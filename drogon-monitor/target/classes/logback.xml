@@ -2,7 +2,7 @@
 
 <configuration debug="false">
 
-    <property name="log.dir" value="F:\\myworkspacedemo\\drogon\\drogon-monitor/log/drogon" />
+    <property name="log.dir" value="F:\\ideaworkspace\\drogon\\drogon-monitor/log/drogon" />
 
     <!-- 控制台 -->
     <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender" >
