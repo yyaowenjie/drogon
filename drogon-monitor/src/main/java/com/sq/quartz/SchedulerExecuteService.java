@@ -15,10 +15,9 @@ public class SchedulerExecuteService {
 
     private static final Logger log = LoggerFactory.getLogger(SchedulerExecuteService.class);
 
+
     public void checkAllProjectPoint(){
-        log.error("test!!!!");
-        log.error("test!!!!");
-        log.error("test!!!!");
-        log.error("test!!!!");
+        System.out.println("test!!!!");
+
     }
 }
