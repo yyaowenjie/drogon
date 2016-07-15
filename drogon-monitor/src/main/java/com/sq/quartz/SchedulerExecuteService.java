@@ -17,5 +17,8 @@ public class SchedulerExecuteService {
 
     public void checkAllProjectPoint(){
         log.error("test!!!!");
+        log.error("test!!!!");
+        log.error("test!!!!");
+        log.error("test!!!!");
     }
 }
