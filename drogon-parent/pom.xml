@@ -53,7 +53,7 @@
     <spring.data.jpa.version>1.4.1.RELEASE</spring.data.jpa.version>
     <spring.data.mongodb.version>1.4.1.RELEASE</spring.data.mongodb.version>
 
-    <hibernate.core.version>4.3.0.Final</hibernate.core.version>
+    <hibernate.core.version>5.3.20.Final</hibernate.core.version>
     <hibernate.ehcache.version>4.3.0.Final</hibernate.ehcache.version>
     <hibernate.commons.annotaions.version>4.0.4.Final</hibernate.commons.annotaions.version>
     <hibernate.validator.version>5.0.2.Final</hibernate.validator.version>
